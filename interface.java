@@ -1,6 +1,6 @@
 // Java program to demonstrate
 // working of interface.
-import java.io.*;
+//import java.io.*;
 
 // A simple interface
 interface in1 {
